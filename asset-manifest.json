@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/commerce/static/css/main.97aa63ef.chunk.css",
+    "main.js": "/commerce/static/js/main.0ae8cfa2.chunk.js",
+    "main.js.map": "/commerce/static/js/main.0ae8cfa2.chunk.js.map",
+    "runtime-main.js": "/commerce/static/js/runtime-main.76460285.js",
+    "runtime-main.js.map": "/commerce/static/js/runtime-main.76460285.js.map",
+    "static/js/2.4db26ece.chunk.js": "/commerce/static/js/2.4db26ece.chunk.js",
+    "static/js/2.4db26ece.chunk.js.map": "/commerce/static/js/2.4db26ece.chunk.js.map",
+    "index.html": "/commerce/index.html",
+    "precache-manifest.4a1d5ebf3d53218d2a4f13c3b0b0b438.js": "/commerce/precache-manifest.4a1d5ebf3d53218d2a4f13c3b0b0b438.js",
+    "service-worker.js": "/commerce/service-worker.js",
+    "static/css/main.97aa63ef.chunk.css.map": "/commerce/static/css/main.97aa63ef.chunk.css.map",
+    "static/js/2.4db26ece.chunk.js.LICENSE.txt": "/commerce/static/js/2.4db26ece.chunk.js.LICENSE.txt",
+    "static/media/baju1.jpg": "/commerce/static/media/baju1.efb34e72.jpg",
+    "static/media/baju2.jpg": "/commerce/static/media/baju2.fce48167.jpg",
+    "static/media/cd1.jpg": "/commerce/static/media/cd1.ae0f2960.jpg",
+    "static/media/cd2.jpeg": "/commerce/static/media/cd2.53e5bc27.jpeg",
+    "static/media/cd3.jpg": "/commerce/static/media/cd3.ce43aae3.jpg",
+    "static/media/stadia.jpg": "/commerce/static/media/stadia.6eb45f9a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76460285.js",
+    "static/js/2.4db26ece.chunk.js",
+    "static/css/main.97aa63ef.chunk.css",
+    "static/js/main.0ae8cfa2.chunk.js"
+  ]
+}
